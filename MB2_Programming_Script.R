@@ -916,9 +916,10 @@ LC_ALL <- gplot(class_ALL)+
 LC_ALL
 
 #################### Save the land cover classification maps
+# First prepare a folder to save the classifcation maps
 #
 writeRaster(class_S2, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_S2.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_S2.tif",
             type="raw",
             datatype='INT2U',
             index=1,
@@ -927,7 +928,7 @@ writeRaster(class_S2,
             overwrite=TRUE)
 
 writeRaster(class_S1, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_S1.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_S1.tif",
             type="raw",
             datatype='INT2U',
             index=1,
@@ -936,7 +937,7 @@ writeRaster(class_S1,
             overwrite=TRUE)
 
 writeRaster(class_S1_GLCM, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_S1_GLCM.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_S1_GLCM.tif",
             type="raw",
             datatype='INT2U',
             index=1,
@@ -945,7 +946,7 @@ writeRaster(class_S1_GLCM,
             overwrite=TRUE)
 
 writeRaster(class_S1_S2, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_S1_S2.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_S1_S2.tif",
             type="raw",
             datatype='INT2U',
             index=1,
@@ -954,7 +955,7 @@ writeRaster(class_S1_S2,
             overwrite=TRUE)
 
 writeRaster(class_S2_VI, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_S2_VI.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_S2_VI.tif",
             type="raw",
             datatype='INT2U',
             index=1,
@@ -963,7 +964,7 @@ writeRaster(class_S2_VI,
             overwrite=TRUE)
 
 writeRaster(class_ALL, 
-            "D:/21_04S2/final_data/GRAPHS_3/RF_All_Data.tif",
+            "D:/MB3/MB2_Script/CL_Classification/RF_All_Data.tif",
             type="raw",
             datatype='INT2U',
             index=1,
