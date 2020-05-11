@@ -9,6 +9,11 @@ The data were dowloded from [copernicus open access hub](https://scihub.copernic
 Six land cover classification maps were generated according to the data integration method; Sentinel 1 only, Sentinel 2 only, Sentinel 1 with its VV and VH GLCM bands, Sentinel 1 with Sentinel 2, Sentinel 2 with its Vegetation Indices (VI) (NDVI, SAVI, MSAVI2, NDWI2) and finaly all the data together.
 All the RF land cover classification models were evaluated by the accuracy assessment.
 
+## Author
+Walid Ghariani MSc. Student in [Applied Earth Observation and Geoanalysis (EAGLE)](http://eagle-science.org/)
+[Walid Ghariani](linkedin: https://www.linkedin.com/in/walid-ghariani-893365138/)
+[E-mail](walid.ghariani@stud-mail.uni-wuerzburg.de)
+
 ## References
 
 [Wegmann M, Leutner B, Dech S (2016) Remote sensing and GIS for ecologists using open source software. Pelagic Publishing, Exeter, UK.](http://book.ecosens.org/RSEbook/) 
