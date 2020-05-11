@@ -10,9 +10,7 @@ Six land cover classification maps were generated according to the data integrat
 All the RF land cover classification models were evaluated by the accuracy assessment.
 
 ## Author
-Walid Ghariani MSc. Student in [Applied Earth Observation and Geoanalysis (EAGLE)](http://eagle-science.org/)
-[Walid Ghariani](linkedin: https://www.linkedin.com/in/walid-ghariani-893365138/)
-[E-mail](walid.ghariani@stud-mail.uni-wuerzburg.de)
+Walid Ghariani MSc. Student in [Applied Earth Observation and Geoanalysis (EAGLE)](http://eagle-science.org/) [linkedin](https://www.linkedin.com/in/walid-ghariani-893365138/) [E-mail](walid.ghariani@stud-mail.uni-wuerzburg.de)
 
 ## References
 
